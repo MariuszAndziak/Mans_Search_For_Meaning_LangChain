@@ -5,8 +5,6 @@
 
 > The project focuses on a book "[Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI)" by [Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl).
 
-> Realizacja w ramach projektu NLP grupy Warszawsko-Międzymiastowo-Międzynarodowej
-https://github.com/DataWorkshop-Foundation/WMM-NLP-project
 
 ## Title
 Text
@@ -15,6 +13,6 @@ Text
 ## Title2
 Text
 * bullet
-<img src="images/01.png">
-<img src="images/word_scores.png">
+<img src="images/chart.png">
+
 
