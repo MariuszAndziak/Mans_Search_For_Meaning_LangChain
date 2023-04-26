@@ -26,6 +26,7 @@ The schema of the outline is presented below alongsite with with some basic data
 ## Project schema
 
 
+<img src="images/diag.png">
 <img src="images/chart.png">
 <img src="images/info.png">
 
