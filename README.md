@@ -27,7 +27,14 @@ The schema of the outline is presented below alongsite with with some basic data
 
 
 <img src="images/diag.png">
+
+## Database information - architecture #1
+Pod Type: P1 - faster queries | chunk_size = 1000 | chunk_overlap = 0
 <img src="images/chart.png">
 <img src="images/info.png">
 
+## Database information - architecture #2
+Pod Type: P2 - lowest latency and highest throughput | chunk_size = 1200 | chunk_overlap = 80
+<img src="images/chart2.png">
+<img src="images/info2.png">
 
