@@ -1,5 +1,8 @@
 ## MAN'S SEARCH FOR MEANING
 [![Generic badge](https://img.shields.io/badge/languge-english-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/uses-openai-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/uses-pinecone-black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/uses-langchain-red.svg)](https://shields.io/)
 
 > The quest for the meaning of life is one of the fundamental strugles of human existence. It's a complex topic that cannot be easily resolved through a single data project. Nonetheless, uncovering meaningful insights can still be informative, even if it doesn't offer a definitive answer to a profound philosophical conundrum.
 
